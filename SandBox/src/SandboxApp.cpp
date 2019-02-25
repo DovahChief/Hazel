@@ -9,5 +9,6 @@ public:
 };
 
 Hazel::Application* Hazel::CreateApplication() {
+	// TODO : Eventos
 	return new Sandox();
 }
